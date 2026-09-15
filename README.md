@@ -76,7 +76,7 @@ String url = "jdbc:oracle:thin:@localhost:1521:XE";
 String username = "your_username";
 String password = "your_password";
 
-How to Run:
+## How to Run:
 
 Install Java and Oracle Database.
 
@@ -93,7 +93,7 @@ Compile the Java files.
 Run hotel.Main.
 
 
-Future Enhancements:
+## Future Enhancements:
 
 Add a graphical interface using Java Swing or JavaFX.
 
